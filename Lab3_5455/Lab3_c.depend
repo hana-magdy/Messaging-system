@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608837153 source:/home/hana/Desktop/Lab3_c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+
